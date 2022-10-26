@@ -16,7 +16,6 @@ data class CrewItemViewState(
     val job: String
 )
 
-
 @Composable
 fun CrewItem(
     crewItemViewState : CrewItemViewState,

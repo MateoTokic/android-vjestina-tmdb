@@ -64,6 +64,7 @@ fun MovieCategoryLabel(
     }
 }
 
+
 @Preview(showBackground = true)
 @Composable
 private fun MovieCategoryPreview(){
