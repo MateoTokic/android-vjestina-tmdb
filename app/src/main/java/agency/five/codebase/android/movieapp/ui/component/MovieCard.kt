@@ -58,6 +58,7 @@ fun MovieCard(
 }
 
 
+
 @Preview(showBackground = true)
 @Composable
 private fun MovieCardPreview(){

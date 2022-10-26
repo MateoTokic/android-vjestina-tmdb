@@ -63,6 +63,7 @@ fun UserScoreProgressBar(
         )
     }
 
+
 }
 
 @Preview(showBackground = true)
